@@ -85,7 +85,7 @@ li {
   letter-spacing: 0.3px;
   pointer-events: none;
   transition: transform 0.25s ease;
-  background: linear-gradient(135deg, #1798fb 0%, #2d5cfe 100%);
+  background: red;
 }
 
 .add-task {
